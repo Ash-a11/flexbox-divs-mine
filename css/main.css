@@ -97,7 +97,7 @@ textarea {
 
 
 html {
-  background-color: #6b705c;
+  background-color: #DD6E42;
   height: 100%;
   width: 100%;
 }
@@ -122,8 +122,8 @@ body {
   
     
 p span {
-    font-family: 'Neonderthaw', cursive;
-}
+    font-family: 'Abril Fatface', cursive;
+} 
 
 header,
 footer {
@@ -133,7 +133,7 @@ footer {
 }
 
 header h1 {
-    font-family: 'Lora', sans-serif;
+    font-family: 'Abril Fatface', cursive;
     font-size: 3em;
   }
 
